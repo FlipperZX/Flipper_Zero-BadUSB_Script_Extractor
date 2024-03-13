@@ -37,7 +37,7 @@
 
 <br>
 
-<h3>4. (Optional) Run all of this in a Windows 10 VM</h3>
+**(Optional) Run all of this in a Windows 10 VM for better security**
 
 <br>
 
