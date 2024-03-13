@@ -46,3 +46,4 @@
 <h2>Usage</h2>
 
 **<p>1. Navigate to Startup folder with WINDOWS + R and 'shell:startup'</p>**
+**<p>Run duckhunt.0.9.blacklist</p>**
