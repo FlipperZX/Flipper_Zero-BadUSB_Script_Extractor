@@ -30,7 +30,7 @@
 
 **Shortened setup process:**
 1. <p>Clone repository: 'git clone https://github.com/pmsosa/duckhunt.git'</p>
-2. <p>Install [this](https://github.com/pmsosa/duckhunt/raw/master/builds/duckhunt.0.9.blacklist.exe) script (duckhunt.0.9.blacklist)</p>
+2. Install [this](https://github.com/pmsosa/duckhunt/raw/master/builds/duckhunt.0.9.blacklist.exe) script (duckhunt.0.9.blacklist)
 3. <p>Press Windows + R and type 'shell:startup'</p>
 4. <p>Paste duckhunt.0.9.blacklist.exe + duckhunt_script_killer.py in directory</p>
 
