@@ -6,3 +6,4 @@
 1. <p>Wireshark (with USBPcap)</p>
 2. <p>duckhunt (GitHub)</p>
 3. <p>FlipperZero-BadUSB-Wireshark (GitHub)</p>
+4. VirtualBox (optional)
