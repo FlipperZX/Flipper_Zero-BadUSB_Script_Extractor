@@ -16,5 +16,5 @@
 
 ![wireshark_wizard](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/wireshark_wizard.png)
 
-<h3>FlipperZero-BadUSB-Wireshark install</h3>
+<h3>2. FlipperZero-BadUSB-Wireshark install</h3>
 <p>Follow installation process of the following repository: https://github.com/agentzex/FlipperZero-BadUSB-Wireshark/tree/main</p>
