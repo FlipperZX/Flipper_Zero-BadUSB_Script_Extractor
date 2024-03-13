@@ -11,4 +11,4 @@
 <h3>Wireshark install</h3>
 <p>Download from official website: https://www.wireshark.org/</p>
 <p>Check USBPcap like so:</p>
-![alt text](C:\Users\602126789\Desktop\Naamloos.png)
+![alt text](https://i.imgur.com/nmehAlS.png)https://i.imgur.com/nmehAlS.png)
