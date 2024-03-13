@@ -9,7 +9,7 @@
 3. <p>FlipperZero-BadUSB-Wireshark (GitHub)</p>
 4. <p>VirtualBox (optional)</p>
 
-<h3>Wireshark install</h3>
+<h3>1. Wireshark install</h3>
 
 <p>Download from official website: https://www.wireshark.org/</p>
 <p>Check USBPcap like so:</p>
