@@ -18,3 +18,5 @@
 
 <h3>2. FlipperZero-BadUSB-Wireshark install</h3>
 <p>Follow installation process of the following repository: https://github.com/agentzex/FlipperZero-BadUSB-Wireshark/tree/main</p>
+
+**<p>Be sure to replace the restructor.py with the restructorv2.py</p>**
