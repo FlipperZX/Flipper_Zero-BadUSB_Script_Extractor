@@ -34,3 +34,7 @@
 3. <p>Press Windows + R and type 'shell:startup'</p>
 4. <p>Paste duckhunt.0.9.blacklist.exe + duckhunt_script_killer.py in directory</p>
 5. <p>(Optional) Modify duckhunt.conf to match use case</p>
+
+<br>
+
+<h3>(Optional) 4. Run all of this in a Windows 10 VM</h3>
