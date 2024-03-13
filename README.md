@@ -29,4 +29,8 @@
 <p>Navigate to this repository: https://github.com/agentzex/FlipperZero-BadUSB-Wireshark/tree/main</p>
 
 **Shortened setup process:**
-<p>BLABLABLA</p>
+1. Clone repository: 'git clone https://github.com/pmsosa/duckhunt.git'
+2. Install this script: https://github.com/pmsosa/duckhunt/raw/master/builds/duckhunt.0.9.blacklist.exe
+3. Press Windows + R and type 'shell:startup'
+4. Paste duckhunt.0.9.blacklist.exe + duckhunt_script_killer.py in directory
+
