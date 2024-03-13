@@ -11,4 +11,5 @@
 <h3>Wireshark install</h3>
 <p>Download from official website: https://www.wireshark.org/</p>
 <p>Check USBPcap like so:</p>
-https://github.com/larsje99/BadUSB_Script_Extractor/issues/1#issue-2184144871
+![Naamloos](https://github.com/larsje99/BadUSB_Script_Extractor/assets/91471321/1fcb5d30-1656-43fc-a5ff-f507ebe6e233)
+
