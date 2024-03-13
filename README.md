@@ -38,3 +38,7 @@
 <br>
 
 <h3>4. (Optional) Run all of this in a Windows 10 VM</h3>
+
+<br>
+
+<h2>Usage</h2>
