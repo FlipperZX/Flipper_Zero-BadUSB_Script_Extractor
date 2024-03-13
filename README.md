@@ -3,6 +3,6 @@
 <h2>Install required software</h2>
 
 **REQUIRED:**
-<p>Wireshark (with USBPcap)</p>
-<p>duckhunt (GitHub)</p>
-<p>FlipperZero-BadUSB-Wireshark (GitHub)</p>
+1. <p>Wireshark (with USBPcap)</p>
+2. <p>duckhunt (GitHub)</p>
+3. <p>FlipperZero-BadUSB-Wireshark (GitHub)</p>
