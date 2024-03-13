@@ -20,3 +20,6 @@
 <p>Follow installation process of the following repository: https://github.com/agentzex/FlipperZero-BadUSB-Wireshark/tree/main</p>
 
 **<p>Be sure to replace the restructor.py with the provided restructor.py from THIS repository</p>**
+
+<h3>3. duckhunt install</h3>
+<p>Navigate to this repository: https://github.com/agentzex/FlipperZero-BadUSB-Wireshark/tree/main</p>
