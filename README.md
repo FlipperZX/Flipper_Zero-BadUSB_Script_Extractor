@@ -48,5 +48,8 @@
 **<p>1. Navigate to Start-up folder with WINDOWS + R and 'shell:startup'</p>**
 **<p>Run duckhunt.0.9.blacklist</p>**
 ![start-up-screen](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/start-up-screen.png)
+
+<br>
+
 **<p>Executable is now running</p>**
 ![task-manager](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/task-manager.png)
