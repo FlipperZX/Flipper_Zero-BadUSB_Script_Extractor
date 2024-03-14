@@ -103,3 +103,9 @@
 ![final_output](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/final_output.PNG)
 
 **YOU HAVE SUCCESFULLY CAUGHT THE DUCKY SCRIPT!**
+
+<br>
+
+**<h3>Credit</h3>**
+@agentzex
+@pmsosa
