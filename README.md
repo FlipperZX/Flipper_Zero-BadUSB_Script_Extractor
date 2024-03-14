@@ -77,5 +77,6 @@
 
 **<h3>4. Plug in BadUSB</h3>**
 **<p>Wireshark will now capture all of the input</p>**
-**!!! IMPORTANT: ALWAYS BE FOCUSSED ON THE CMD WINDOW !!!**
+**!!! IMPORTANT: ALWAYS BE FOCUSSED ON THE terminal WINDOW !!!**
+**-> In case of input running past the terminal window, duckhunt.exe will stop the attack**
 ![capturing_badusb](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/capturing_badusb.PNG)
