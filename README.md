@@ -52,3 +52,8 @@
 
 **<p>Executable is now running</p>**
 ![task-manager](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/task-manager.png)
+
+**<p>2. Open Wireshark and capture USBPcap</p>**
+![wireshark](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/wireshark.PNG)
+![wireshark_capturing](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/wireshark_capturing.PNG)
+
