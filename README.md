@@ -72,3 +72,8 @@
 **THIS IS NOT IDEAL AND NOT REALLY PLEASENT TO READ -> SOLVED BELOW**
 ![log_startup](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/log_startup.PNG)
 ![log_example](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/log_example.PNG)
+
+<br>
+
+**<h3>4. Plug in BadUSB</h3>**
+**<p>Wireshark will now capture all of the input</p>**
