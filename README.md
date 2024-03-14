@@ -106,6 +106,6 @@
 
 <br>
 
-**<h3>Credit</h3>**
+**<h3>Credits</h3>**
 <p>@agentzex https://github.com/agentzex</p>
 <p>@pmsosa https://github.com/pmsosa</p>
