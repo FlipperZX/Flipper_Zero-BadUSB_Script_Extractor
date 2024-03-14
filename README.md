@@ -45,7 +45,7 @@
 
 <h2>Usage</h2>
 
-**<p>1. Navigate to Start-up folder with WINDOWS + R and 'shell:startup'</p>**
+**<h2>1. Navigate to Start-up folder with WINDOWS + R and 'shell:startup'</h2>**
 
 **<p>Run duckhunt.0.9.blacklist</p>**
 ![start-up-screen](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/start-up-screen.png)
