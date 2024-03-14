@@ -97,3 +97,7 @@
 **<p>Open terminal, navigate to reconstructor folder and run 'python reconstructor.py FILENAME.json</p>**
 ![cmd_python](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/cmd_python.PNG)
 
+**<p>If all goes well you will find reconstructed_ducky_script.txt in the reconstructor directory</p>**
+![reconstructor](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/reconstructor.PNG)
+
+![final_output](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/final_output.PNG)
