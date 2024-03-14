@@ -68,7 +68,7 @@
 **RECOMMENDED SETUP EXAMPLE BELOW**
 ![wireshark-cmd](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/wireshark_cmd.PNG)
 
-**<p>Log file is present in the Startup directory</p>**
+**<p>Log file is present in the Start-up directory</p>**
 **THIS IS NOT IDEAL AND NOT REALLY PLEASENT TO READ -> SOLVED BELOW**
 ![log_startup](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/log_startup.PNG)
 ![log_example](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/log_example.PNG)
