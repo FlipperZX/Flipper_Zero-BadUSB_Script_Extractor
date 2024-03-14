@@ -7,6 +7,7 @@
 1. <p>Wireshark (with USBPcap)</p>
 2. <p>duckhunt (GitHub)</p>
 3. <p>FlipperZero-BadUSB-Wireshark (GitHub)</p>
+4. <p>Python</p>
 
 <h3>1. Wireshark install</h3>
 
