@@ -87,3 +87,13 @@
 **<p>Save file to the reconstructor directory (C:\Users\\%USER%\FlipperZero-BadUSB-Wireshark\reconstructor)</p>**
 ![saving_packet](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/saving_packet.png)
 ![folder_save](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/wireshark_save.PNG)
+
+<br>
+
+**<h3>6. Run reconstructor.py</h3>**
+
+**<p>After saving the file you can close Wireshark and end duckhunt.0.9.blacklist in task manager</p>**
+
+**<p>Open terminal, navigate to reconstructor folder and run 'python reconstructor.py FILENAME.json</p>**
+![cmd_python](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/cmd_python.PNG)
+
