@@ -64,3 +64,5 @@
 **<h3>3. Open terminal window</h3>**
 
 **<p>The duckhunt executable will now block and log all input given</p>**
+**RECOMMENDED SETUP EXAMPLE BELOW**
+![wireshark-cmd](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/wireshark_cmd.PNG)
