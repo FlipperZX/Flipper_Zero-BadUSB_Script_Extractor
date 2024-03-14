@@ -101,3 +101,5 @@
 ![reconstructor](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/reconstructor.PNG)
 
 ![final_output](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/final_output.PNG)
+
+**YOU HAVE SUCCESFULLY CAUGHT THE DUCKY SCRIPT!**
