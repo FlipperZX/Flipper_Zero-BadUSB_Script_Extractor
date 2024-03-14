@@ -81,6 +81,8 @@
 **<p>-> In case of input running past the terminal window, duckhunt.exe will stop the attack</p>**
 ![capturing_badusb](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/capturing_badusb.PNG)
 
+<br>
+
 **<h3>5. Safe Wireshark report as JSON</h3>**
 **<p>Safe file to the reconstructor directory (C:\Users\\%USER%\FlipperZero-BadUSB-Wireshark\reconstructor)</p>**
 ![saving_packet](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/saving_packet.png)
