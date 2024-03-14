@@ -83,7 +83,7 @@
 
 <br>
 
-**<h3>5. Safe Wireshark report as JSON</h3>**
-**<p>Safe file to the reconstructor directory (C:\Users\\%USER%\FlipperZero-BadUSB-Wireshark\reconstructor)</p>**
+**<h3>5. Save Wireshark report as JSON</h3>**
+**<p>Save file to the reconstructor directory (C:\Users\\%USER%\FlipperZero-BadUSB-Wireshark\reconstructor)</p>**
 ![saving_packet](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/saving_packet.png)
 ![folder_save](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/wireshark_save.PNG)
