@@ -40,7 +40,7 @@
 **(Optional) Run all of this in a Windows 10 VM for better security**
 <br>
 <br>
-**!!!REBOOT IS REQUIRED AFTER ALL OF THESE STEPS!!!**
+**!!! REBOOT IS REQUIRED AFTER ALL OF THESE STEPS !!!**
 
 <br>
 
