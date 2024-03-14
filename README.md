@@ -107,5 +107,8 @@
 <br>
 
 **<h3>Credit</h3>**
-@agentzex
-@pmsosa
+@agentzex https://github.com/agentzex
+
+<br>
+
+@pmsosa https://github.com/pmsosa
