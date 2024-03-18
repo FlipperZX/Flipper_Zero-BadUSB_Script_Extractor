@@ -44,6 +44,13 @@
 
 <br>
 
+<h2>Virtual Machine Note</h2>
+
+It's important to know which device or port you are going to connect to your VM. Below you can find the best method for safely connecting a BadUSB to your virtual machine.
+
+
+<br>
+
 <h2>Usage</h2>
 
 **<h3>1. Navigate to Start-up folder with WINDOWS + R and 'shell:startup'</h3>**
