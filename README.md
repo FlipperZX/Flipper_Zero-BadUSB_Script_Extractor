@@ -60,7 +60,7 @@ Click [here](https://github.com/larsje99/usbscanner_for_ParrotOS) to find my off
 
 The analyzer will return some important information about the device, save the idVendor and idProduct for later use!
 
-![output_example](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/output_example.PNG)
+![output_example](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/output_example.png)
 
 <br>
 
