@@ -55,10 +55,12 @@ It's important to know which device or port you are going to connect to your VM.
 
 **<h3>1. Navigate to Start-up folder with WINDOWS + R and 'shell:startup'</h3>**
 
-**<p>Run duckhunt.0.9.blacklist</p>**
+<p>Run duckhunt.0.9.blacklist</p>
+
 ![start-up-screen](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/start-up-screen.png)
 
-**<p>Executable is now running</p>**
+<p>Executable is now running</p>
+
 ![task-manager](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/task-manager.png)
 
 <br>
@@ -71,11 +73,13 @@ It's important to know which device or port you are going to connect to your VM.
 
 **<h3>3. Open terminal window</h3>**
 
-**<p>The duckhunt executable will now block and log all input given</p>**
+<p>The duckhunt executable will now block and log all input given</p>
+
 **RECOMMENDED SETUP EXAMPLE BELOW**
 ![wireshark-cmd](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/wireshark_cmd.PNG)
 
-**<p>Log file is present in the Start-up directory</p>**
+<p>Log file is present in the Start-up directory</p>
+
 **THIS IS NOT IDEAL AND NOT REALLY PLEASENT TO READ -> SOLVED BELOW**
 ![log_startup](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/log_startup.PNG)
 ![log_example](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/log_example.PNG)
@@ -83,7 +87,8 @@ It's important to know which device or port you are going to connect to your VM.
 <br>
 
 **<h3>4. Plug in BadUSB</h3>**
-**<p>Wireshark will now capture all of the input</p>**
+<p>Wireshark will now capture all of the input</p>
+
 **!!! IMPORTANT: ALWAYS BE FOCUSSED ON THE TERMINAL WINDOW !!!**
 **<p>-> In case of input running past the terminal window, duckhunt.exe will stop the attack</p>**
 ![capturing_badusb](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/capturing_badusb.PNG)
@@ -91,7 +96,8 @@ It's important to know which device or port you are going to connect to your VM.
 <br>
 
 **<h3>5. Save Wireshark report as JSON</h3>**
-**<p>Save file to the reconstructor directory (C:\Users\\%USER%\FlipperZero-BadUSB-Wireshark\reconstructor)</p>**
+<p>Save file to the reconstructor directory (C:\Users\\%USER%\FlipperZero-BadUSB-Wireshark\reconstructor)</p>
+
 ![saving_packet](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/saving_packet.png)
 ![folder_save](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/wireshark_save.PNG)
 
@@ -99,12 +105,14 @@ It's important to know which device or port you are going to connect to your VM.
 
 **<h3>6. Run reconstructor.py</h3>**
 
-**<p>After saving the file you can close Wireshark and end duckhunt.0.9.blacklist in task manager</p>**
+<p>After saving the file you can close Wireshark and end duckhunt.0.9.blacklist in task manager</p>
 
-**<p>Open terminal, navigate to reconstructor folder and run 'python reconstructor.py FILENAME.json</p>**
+<p>Open terminal, navigate to reconstructor folder and run 'python reconstructor.py FILENAME.json</p>
+
 ![cmd_python](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/cmd_python.PNG)
 
-**<p>If all goes well you will find reconstructed_ducky_script.txt in the reconstructor directory</p>**
+<p>If all goes well you will find reconstructed_ducky_script.txt in the reconstructor directory</p>
+
 ![reconstructor](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/reconstructor.PNG)
 
 ![final_output](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/final_output.PNG)
