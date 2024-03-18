@@ -52,6 +52,8 @@ It's important to know which device or port you are going to connect to your VM.
 
 Click [here](https://github.com/larsje99/usbscanner_for_ParrotOS) to find my official USB analyzer and follow the steps from the README.
 
+<br>
+
 **<h3>2. Save USB idVendor and idProduct for later use</h3>**
 
 The analyzer will return some important information about the device, save the idVendor and idProduct for later use!
