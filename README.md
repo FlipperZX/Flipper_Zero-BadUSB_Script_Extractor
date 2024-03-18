@@ -48,9 +48,15 @@
 
 It's important to know which device or port you are going to connect to your VM. Below you can find the best method for safely connecting a BadUSB to your virtual machine.
 
-**<h3>1. Use my script to analyze USB'</h3>**
+**<h3>1. Use my script to analyze USB</h3>**
 
-Click [here](https://github.com/larsje99/usbscanner_for_ParrotOS) to find my official USB analyzer
+Click [here](https://github.com/larsje99/usbscanner_for_ParrotOS) to find my official USB analyzer and follow the steps from the README.
+
+**<h3>2. Save USB idVendor and idProduct for later use</h3>**
+
+The analyzer will return some important information about the device, save the idVendor and idProduct for later use!
+
+![output_example](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/output_example.PNG)
 
 <br>
 
