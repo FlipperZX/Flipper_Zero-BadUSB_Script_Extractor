@@ -50,8 +50,7 @@ It's important to know which device or port you are going to connect to your VM.
 
 **<h3>1. Use my script to analyze USB'</h3>**
 
-<p>Click [here](https://github.com/larsje99/usbscanner_for_ParrotOS) to find my official USB analyzer</p>
-
+Click [here](https://github.com/larsje99/usbscanner_for_ParrotOS) to find my official USB analyzer
 
 <br>
 
