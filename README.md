@@ -70,6 +70,8 @@ Now we can whitelist a specific USB device in our virtual machine with the idVen
 
 ![whitelist_usb](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/whitelist_usb.PNG)
 
+**<p>NOW WHEN LAUNCHING YOUR WINDOWS 10 VIRTUAL MACHINE THE DEVICE WILL AUTOMATICALLY BE CONNECTED TO THE VM!</p>**
+
 <br>
 
 <h2>Usage</h2>
