@@ -64,6 +64,14 @@ The analyzer will return some important information about the device, save the i
 
 <br>
 
+**<h3>3. Add saved information to virtual machine</h3>**
+
+Now we can whitelist a specific USB device in our virtual machine with the idVendor and idProduct.
+
+![whitelist_usb](https://raw.githubusercontent.com/larsje99/BadUSB_Script_Extractor/master/screenshots/whitelist_usb.PNG)
+
+<br>
+
 <h2>Usage</h2>
 
 **<h3>1. Navigate to Start-up folder with WINDOWS + R and 'shell:startup'</h3>**
